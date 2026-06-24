@@ -1,0 +1,26 @@
+# PlatformIO
+.pio/
+sdkconfig.esp32dev
+
+# ESP-IDF build artifacts
+build/
+sdkconfig
+sdkconfig.old
+managed_components/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.cad-venv/
+.env/
+
+# Editor / OS
+.vscode/
+*.swp
+.DS_Store
+
+# CAD build artifacts
+models/__pycache__/
+models/.dial.step.glb
+models/*.stl
