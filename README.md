@@ -2,6 +2,15 @@
 
 Analog-style CO₂ gauge built on an ESP32: a stepper motor drives a needle across a printed dial, a TM1637 shows live readings, and a Sensirion SCD41 measures CO₂, temperature, and humidity.
 
+3D Printed to Adapt into [this cheap clock ](https://www.amazon.com/dp/B0DX6WKPMS)
+
+<img width="956" height="1275" alt="image" src="https://github.com/user-attachments/assets/601ccda7-7ad0-409a-9d77-f5f10ae17522" />
+<img width="956" height="1275" alt="image" src="https://github.com/user-attachments/assets/b3310cb1-632d-477e-8ea2-d1e6554f85e7" />
+<img width="649" height="640" alt="image" src="https://github.com/user-attachments/assets/a5f29a3c-3b44-4522-8de5-5bec89fda287" />
+<img width="707" height="670" alt="image" src="https://github.com/user-attachments/assets/8ba53821-e7d8-4ec1-9b2b-880baaaa8d48" />
+
+
+
 ## Hardware
 
 | Component | Role |
